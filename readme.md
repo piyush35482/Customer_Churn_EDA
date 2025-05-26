@@ -25,8 +25,8 @@ This exploratory data analysis (EDA) focuses on understanding customer churn beh
 
 3. **Internet Service Type**:
 
-   * **Fiber optic** users have the **highest churn around (\42%)**.
-   * **DSL users churn less around (\19%)**.
+   * **Fiber optic** users have the **highest churn around \~42%**.
+   * **DSL users churn less around (\~19%)**.
    * **No internet service** customers rarely churn.
 
 4. **Support & Protection Services**:
